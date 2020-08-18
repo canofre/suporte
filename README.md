@@ -12,3 +12,7 @@ Desenvolvimento de um sistema de pedidos de suporte onde o usuário não necessi
 fazer e acompanhar o pedido. Desenvolvido com o objetivo de ser utilizado em uma rede interna, podendo ser
 aplicado para outros fins.
 
+
+teste_derede 
+
+teste\_de\_scape
